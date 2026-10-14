@@ -1,0 +1,3 @@
+効果音:効果音ラボ
+モーション:カーネギーメロン大学
+VRM読み込み:https://qiita.com/fairychirno/items/6c22580be29242719f11
